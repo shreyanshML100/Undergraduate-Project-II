@@ -1,1 +1,1 @@
-The Folder contains the GNUPlot Simulations which were obtained for Non-Spherical Particles when the C++ code was made to run.
+The Folder contains the GNUPlot Simulations which were obtained for Non-Spherical Particles when the C++ code was made to run. The Simulation is for a Non Spherical Particle simulated using the MultiSphere Model which is moving in a box of size 10x10x10. The Non-Spherical Particle is simulated using 3-Spheres here.
